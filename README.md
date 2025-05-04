@@ -1,0 +1,2 @@
+# writeright
+editor for essays
