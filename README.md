@@ -1,4 +1,5 @@
 # WriteRight
+**(*Note: This project is archived — the original code files are no longer available, but this README documents what was built.*)**
 
 A lightweight essay-writing workspace that combines a prompt generator, a distraction-free editor, and a way to turn finished writing into shareable text posters — with Spotify integration so you can pair your writing with the music that shaped it.
 
